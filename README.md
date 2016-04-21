@@ -1,2 +1,2 @@
 # KeepMeHonest
-Application that will notify the person you chose to "Keep You Honest" when you are not fulfilling your fitness goals.
+When you are not fulfilling your fitness goals the application will notify a person that you've chosen to "Keep You Honest".
